@@ -272,7 +272,7 @@
             "name": "山楂┃1080P",
             "type": 3,
             "timeout": 15,
-            "api": "./api/8.py",
+            "api": "./ext/8.py",
             "ext": ""
         },
         {
