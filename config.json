@@ -285,7 +285,20 @@
                 "ratio": 0.75
             },
             "changeable": 1
-        }, 
+        },
+       {
+            "key": "bubu",
+            "name": "布布",
+            "type": 3,
+            "api": "./ext/布布.py",
+            "searchable": 1,
+           "quickSearch": 1,
+           "filterable": 0,
+           "changeable": 1,
+          "ext": {
+            "site": "https://bubutv.top,https://bbys.app,https://www.bbys.app"
+             }
+        },
         {
             "key": "枫叶♡影院",
             "name": "枫叶♡影院",
