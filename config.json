@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/aowu.jar",
+    "spider": "./jar/aowu1.jar",
     "logo": "",
     "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
     "sites": [
